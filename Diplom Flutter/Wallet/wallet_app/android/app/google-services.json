@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "109921897414",
+    "project_id": "diplom-walletapp",
+    "storage_bucket": "diplom-walletapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:109921897414:android:412f858e57fc520313c0c7",
+        "android_client_info": {
+          "package_name": "com.example.wallet_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "109921897414-0dre6pj8fgibcvc9qpsn668n3l205via.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBh82WcGW7Byq7o-fQCZ-KG7sBpVDksH3k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "109921897414-0dre6pj8fgibcvc9qpsn668n3l205via.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
